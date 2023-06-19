@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/basic_auth_flow-in-reactJs/static/css/main.2441ff1a.css",
+    "main.js": "/basic_auth_flow-in-reactJs/static/js/main.84d17f0d.js",
+    "static/media/brgrBLURRED.jpg": "/basic_auth_flow-in-reactJs/static/media/brgrBLURRED.88a54aff222c3cd43468.jpg",
+    "index.html": "/basic_auth_flow-in-reactJs/index.html",
+    "main.2441ff1a.css.map": "/basic_auth_flow-in-reactJs/static/css/main.2441ff1a.css.map",
+    "main.84d17f0d.js.map": "/basic_auth_flow-in-reactJs/static/js/main.84d17f0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2441ff1a.css",
+    "static/js/main.84d17f0d.js"
+  ]
+}
