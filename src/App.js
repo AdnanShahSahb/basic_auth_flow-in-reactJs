@@ -11,7 +11,7 @@ function App() {
         <Routes>
           <Route path="/" element={<LoginPage />} />
           <Route path="/welcome" element={<WelcomePage />} />
-          <Route path="*" element={<Page404/> } />
+          {/* <Route path="*" element={<Page404/> } /> */}
         </Routes>
       </header>
 
