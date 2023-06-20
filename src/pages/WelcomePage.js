@@ -11,7 +11,7 @@ const WelcomePage = () => {
         Welcome {currLoc.state} !!!
       </h1>
       
-      <Link to='/' style={{ margin:'2.5rem auto', }}><button style={{height:'50px',}}>Go Back</button></Link>
+      <Link to='/basic_auth_flow-in-reactJs' style={{ margin:'2.5rem auto', }}><button style={{height:'50px',}}>Go Back</button></Link>
     </div>
   )
 }
