@@ -9,9 +9,9 @@ function App() {
     <>
       <header className="App-header">
         <Routes>
-          <Route path="/" element={<LoginPage />} />
+          <Route path="/basic_auth_flow-in-reactJs" element={<LoginPage />} />
           <Route path="/welcome" element={<WelcomePage />} />
-          {/* <Route path="*" element={<Page404/> } /> */}
+          <Route path="*" element={<Page404/> } />
         </Routes>
       </header>
 
